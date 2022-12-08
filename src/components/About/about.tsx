@@ -7,7 +7,7 @@ const About = () => {
   return (
     <Container>
       <h3>Quer aprender programação porém não sabe como ?, Você está no lugar certo!,
-          você conhecerá as principais linguagens de programação, técnicas de estudo, e também como iniciar na área de programção mesmo não conhecendo nada sobre.
+          você conhecerá as principais linguagens de programação, técnicas de estudo, e também como iniciar na área de programção mesmo não conhecendo nada sobre essa incrível área.
       </h3>
       <h2>O que é Programação ?</h2>
       <p>Programação é o processo de escrita, teste e manutenção de um programa de computador. O programa é escrito em uma linguagem de programação, embora seja possível, com alguma dificuldade, o escrever diretamente em linguagem de máquina. Diferentes partes de um programa podem ser escritas em diferentes linguagens.</p>
@@ -44,7 +44,7 @@ Do final dos anos 90 até meados dos anos 2000, o JS ganhou grande popularidade 
 </p>
 <h1>Próximos Passos</h1>
 <p>Após conhecer um pouco sobre essas linguagens, pesquise profundamente sobre cada uma delas, estude algumas horas por dia, e pratique bastante todo o conhecimento que receber estudando essas linguagens</p>
-<p>Entendendo o básico de cada linguagem você estará apto para estudar um framwork ou seja la qual for a linguagem mais complexa que você escolherá.</p>
+<p>Entendendo o básico de cada linguagem você estará apto para estudar um framework ou seja la qual for a linguagem mais complexa que você escolherá.</p>
 <p>Linguagens como :</p>
 <ul>
   <li>React.js</li>
